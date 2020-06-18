@@ -58,6 +58,6 @@ App.defaultProps = {
 
 
 ReactDOM.render(
-  <App name="Jessica Smith"/>,
+  <App name="Sally Student"/>,
   document.querySelector('#root')
 );
